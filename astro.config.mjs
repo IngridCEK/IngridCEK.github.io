@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 
 export default defineConfig({
-  site: "https://IngridCEK.github.io",
+  site: "https://ingridcek.github.io",
   base: "/",
 
   vite: {
